@@ -1,5 +1,5 @@
-# FireScout
+# shinyR-organized
 
 -----
 
-Challenging the inherently stochastic nature of fire behavior through machine learning
+Challenging the inherently stochastic nature of -
